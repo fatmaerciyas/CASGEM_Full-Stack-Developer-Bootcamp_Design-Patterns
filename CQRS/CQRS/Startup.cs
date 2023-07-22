@@ -27,6 +27,11 @@ namespace CQRS
         {
             services.AddDbContext<Context>();
             services.AddScoped<GetProductQueryHandler>();
+            services.AddScoped<CreateProductCommandHandler>();
+            services.AddScoped<RemoveProductCommandHandler>();
+            services.AddScoped<GetProductByIdQueryHandler>();
+            services.AddScoped<GetProductUpdateByIdQueryHandler>();
+            services.AddScoped<UpdateProductCommandHandler>();
             services.AddControllersWithViews();
         }
 
@@ -54,7 +59,7 @@ namespace CQRS
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Default}/{action=Index}/{id?}");
             });
         }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SZV4KhWAHf3CR6Pilnh32jIV3wQLJ/HwAzx1TfLEV7f37IUAaRKVvj+fd2EYtnhA/0S5OvmTm2rxiEXGbRg5Uw==",
+  "dgSpecHash": "0/IikSNpvzi9Inzf84R39n2BJ9CIBmg4v8phBMv6TcQ+DeD6VId616zvJ5WUxuOaMsdKWl21a+9MINkCEY1voA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fatma\\source\\repos\\CQRS\\CQRS\\CQRS.csproj",
+  "projectFilePath": "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_Design-Patterns\\CQRS\\CQRS\\CQRS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fatma\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\fatma\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

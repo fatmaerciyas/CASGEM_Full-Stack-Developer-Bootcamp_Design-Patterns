@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatma\\source\\repos\\CQRS\\CQRS\\CQRS.csproj": {}
+    "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_Design-Patterns\\CQRS\\CQRS\\CQRS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatma\\source\\repos\\CQRS\\CQRS\\CQRS.csproj": {
+    "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_Design-Patterns\\CQRS\\CQRS\\CQRS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatma\\source\\repos\\CQRS\\CQRS\\CQRS.csproj",
+        "projectUniqueName": "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_Design-Patterns\\CQRS\\CQRS\\CQRS.csproj",
         "projectName": "CQRS",
-        "projectPath": "C:\\Users\\fatma\\source\\repos\\CQRS\\CQRS\\CQRS.csproj",
+        "projectPath": "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_Design-Patterns\\CQRS\\CQRS\\CQRS.csproj",
         "packagesPath": "C:\\Users\\fatma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatma\\source\\repos\\CQRS\\CQRS\\obj\\",
+        "outputPath": "C:\\Users\\fatma\\Source\\Repos\\CASGEM_Full-Stack-Developer-Bootcamp_Design-Patterns\\CQRS\\CQRS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatma\\AppData\\Roaming\\NuGet\\NuGet.Config",

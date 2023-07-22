@@ -1,0 +1,32 @@
+﻿@model CQRS.CQRSPattern.Results.GetProductByIdQueryResult
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <title>GetProduct</title>
+</head>
+<body>
+    <div class="container">
+        <br /><br />
+        <form method="get">
+            <label>Ürün Id</label>
+            <input type="text" class="form-control" asp-for="ProductID" />
+            <br />
+            <label>Ürün adı</label>
+            <input type="text" class="form-control" asp-for="Name" />
+            <br />
+            <label>Marka</label>
+            <input type="text" class="form-control" asp-for="ProductBrand" />
+            <br />
+        </form>
+    </div>
+</body>
+</html>
